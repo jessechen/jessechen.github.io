@@ -2,20 +2,18 @@
 layout: home
 ---
 
-<ul class="post-list">
-    {%- for post in paginator.posts -%}
-    <li>
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{%- for post in paginator.posts -%}
+<div class="post">
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <span class="post-meta">{{ post.date | date: date_format }}</span>
     <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
         </a>
     </h3>
-    {{ post.content }}
-    </li>
-    {%- endfor -%}
-</ul>
+{{ post.content }}
+</div>
+{%- endfor -%}
 
 <nav class="pagination">
     <span class="pagination-previous">
