@@ -1,0 +1,14 @@
+---
+layout: post
+title: botnet
+date: 2025-02-17
+categories: etym
+origin: 2003
+---
+The coordinated attack vector *botnet* was first named that around 2003, a compound of *bot* + *net*. Early botnets mostly focused on sending [spam]({% link _posts/2023-10-17-spam.markdown %}) emails that got around simple filters, not the DDoS attacks we associate with them today. EarthLink, a major email provider at the time, claims the first major known botnet in 2001 was responsible for as much as 25% of all incoming emails.
+
+The origin of *-net* is clear; the short variation of *network* was a productive affix in contemporaneous compounds like *intranet* and *netizen*. The other half, *bot*, had been in use for over 10 years to refer to *chatbots* and *spambots* in chat rooms like IRC. A clipping of *robot*, it quickly took on the specific meaning of "automated system sending text messages" in the early 1990s, semantically drifting from its use in science fiction (first appearing in 1969) where it just meant "robot".
+
+*Robot* itself is an English word with an unusually clear origin story. It's first found in 1922 in the English translation of Karel Capek's 1920 Czech play "R.U.R." ("Rossum's Universal Robots"), from Czech *robota* meaning "forced labor". Karel's robots were organic, but the term quickly came to be associated with machines, as assembly lines were then transforming manufacturing. A notable example of robots taking people's jobs is the invention and deployment of fully automated traffic robots in 1922, which replaced human crossing guards at every major Manhattan intersection by 1926. In the intervening decades, this machine's name changed to "traffic light" in most varieties of English, but remains "robot" in South Africa.
+
+P.S. While researching this, I learned that another example of robots taking people's jobs happened much later than I was thinking. Otis Autotronic elevators were first installed in 1950, eventually replacing elevator operators in basically every elevator building.
