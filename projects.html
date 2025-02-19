@@ -1,0 +1,50 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+<style type="text/css">
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    border-radius: .5rem;
+    padding: 1rem;
+    background-color: white;
+    align-items: center;
+    box-shadow: .25rem .25rem .5rem #efcebe;
+}
+.card-img {
+    border-radius: .5rem;
+    height: 12rem;
+    object-fit: cover;
+    aspect-ratio: 5/3;
+}
+.card-title {
+    margin: 1rem 0;
+}
+.card-text {
+    margin-bottom: 1rem;
+}
+</style>
+
+<h1 class="page-heading">Index of all projects</h1>
+<div class="cards">
+{%- for project in site.projects -%}
+    <div class="card">
+        <a href="{{ project.link | relative_url }}"><img class="card-img" src="{{ project.thumbnail | relative_url }}" alt="{{ project.description }}"></a>
+        <h3 class="card-title">{{ project.title }} ({{ project.date | date: "%Y" }})</h3>
+        <p class="card-text">{{ project.description }}</p>
+        <nav class="card-links">
+            <a href="{{ project.link | relative_url }}">link</a> |
+            <a href="{{ project.code }}">code</a>
+        </nav>
+    </div>
+{%- endfor -%}
+</div>
