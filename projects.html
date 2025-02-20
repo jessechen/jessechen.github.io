@@ -39,7 +39,8 @@ permalink: /projects/
 
 <h1 class="page-heading">Index of all projects</h1>
 <div class="cards">
-{%- for project in site.projects -%}
+{% assign projects = site.projects | reverse %}
+{%- for project in projects -%}
     <div class="card">
         <a href="{{ project.link | relative_url }}"><img class="card-img" src="{{ project.thumbnail | relative_url }}" alt="{{ project.description }}"></a>
         <h3 class="card-title">{{ project.title }} ({{ project.date | date: "%Y" }})</h3>
