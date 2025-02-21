@@ -1,9 +1,22 @@
 ---
 ---
 
+// Site color palette: https://colorhunt.co/palette/d84040a31d1decdcbff8f2de
+// #D84040, #A31D1D, #ECDCBF, #F8F2DE
+
 body {
-    background-color: #fefcfb;
-    color: #0a1128;
+    background-color: #fbf8ee;
+    color: #110303;
+}
+
+.site-header {
+    border-top-color: #fbf8ee;
+    background-color: #a31d1d;
+    border-bottom-color: #ecdcbf;
+}
+
+.site-title, .site-title:visited, .site-nav .page-link {
+    color: #fbf8ee;
 }
 
 .post {
@@ -13,6 +26,10 @@ body {
 .pagination {
     display: flex;
     justify-content: space-between;
+}
+
+.site-footer {
+    border-top-color: #ecdcbf;
 }
 
 .rss-wrapper {
