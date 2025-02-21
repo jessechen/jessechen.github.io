@@ -3,23 +3,27 @@ permalink: /404.html
 layout: default
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
+<style>
+.dinosaur {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dinosaur h1 {
+    color: #a31d1d;
+    font-weight: 700;
+    font-size: 3em;
+}
+
+.dinosaur img {
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
 </style>
 
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+<div class="dinosaur">
+    <h1>404 Not Found</h1>
+    <img src="/assets/dinosaur.png"/>
+    <p>I dunno, here's a dinosaur or something.</p>
 </div>
