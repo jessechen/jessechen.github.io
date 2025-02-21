@@ -42,12 +42,12 @@ permalink: /projects/
 {% assign projects = site.projects | reverse %}
 {%- for project in projects -%}
     <div class="card">
-        <a href="{{ project.link | relative_url }}"><img class="card-img" src="{{ project.thumbnail | relative_url }}" alt="{{ project.description }}"></a>
+        <a href="{{ project.link | relative_url }}" target="_blank"><img class="card-img" src="{{ project.thumbnail | relative_url }}" alt="{{ project.description }}"></a>
         <h3 class="card-title">{{ project.title }} ({{ project.date | date: "%Y" }})</h3>
         <p class="card-text">{{ project.description }}</p>
         <nav class="card-links">
-            <a href="{{ project.link | relative_url }}">link</a> |
-            <a href="{{ project.code }}">code</a>
+            <a href="{{ project.link | relative_url }}" target="_blank"><img class="icon" src="/assets/link.svg"/> link</a> |
+            <a href="{{ project.code }}" target="_blank"><img class="icon" src="/assets/github.svg"/> code</a>
         </nav>
     </div>
 {%- endfor -%}
