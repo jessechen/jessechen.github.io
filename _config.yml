@@ -11,6 +11,7 @@ collections:
   - projects
 header_pages:
   - words.markdown
+  - projects.html
   - other.markdown
   - about.markdown
 paginate: 5
