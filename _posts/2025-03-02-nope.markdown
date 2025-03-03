@@ -1,0 +1,13 @@
+---
+layout: post
+title: nope
+date: 2025-03-02
+categories: etym
+origin: 1888
+---
+The interjection *nope* is first found in print in 1888, although it was likely common in speech well before that. Essentially, when you say "no" quickly and crisply, closing your mouth causes the final vowel to sound like it ends with a /p/. This is because a final /p/ sound is usually made by closing both lips. This phenomenon has the charming name "excrescent p". [Excrescence](https://en.wikipedia.org/wiki/Epenthesis) is the general term for a sound change where a consonant gets added to a word, like the /p/ sound often found in the middle of *something* or *hamster* when spoken aloud.
+
+The parallel *yep*, likely based on *yeah*, is similarly first attested in 1882. Here's [a 1946 paper](https://www.jstor.org/stable/486479) where a linguist discusses the phenomenon, including an example usage of *welp*, based on *well*, long before its first print usage in the wild in 1987. *Welp* saw a dramatic rise in usage in the late 2000s and early 2010s, as captured in [this 2012 Slate explainer](https://slate.com/culture/2012/11/welp-slang-term-has-longer-history-than-you-might-think.html) about the word. The regional *ope* is likely a similar alteration of *oh*.
+
+![Icon with the word "Nope!" in white text over a purple diamond from the video game Balatro](/assets/nope.png)
+*Icon with the word "Nope!" in white text over a purple diamond from the video game Balatro*
