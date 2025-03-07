@@ -27,6 +27,14 @@ a:visited {
     color: #791515;
 }
 
+table tr:nth-child(even) {
+    background-color: #f8f2de;
+}
+
+table td {
+    padding: .5em;
+}
+
 .post {
     margin-bottom: 3rem;
 }
