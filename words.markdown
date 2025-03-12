@@ -11,7 +11,7 @@ permalink: /words/
             <li>dates more than 500 years old are accurate to within 30 years</li>
             <li>dates more than 1000 years old are accurate to within 100 years</li>
             <li>dates more than 2000 years old are accurate to within 1000 years</li>
-            <li>dates labeled "-4000" could actually be any time before 3000 BCE, we can't really narrow it down any more than that with current methods</li>
+            <li>dates labeled "-3000" could actually be any time before 3000 BCE, we can't really narrow it down any more than that with current methods</li>
         </ul>
     </p>
     <h1 class="page-heading">Index of all words</h1>

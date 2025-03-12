@@ -1,0 +1,10 @@
+---
+layout: post
+title: ox
+date: 2025-03-10
+categories: etym
+origin: -3000
+---
+The animal category *ox* is an exceptionally old word. It has cognates across many disparate languages, including Dutch *os*, German *Ochse*, Welsh *ych*, Avestan 𐬎𐬑𐬱𐬀𐬥 (uxšan), and Sanskrit उक्षन् (ukṣán). This strongly suggests it is a Proto-Indo-European word, reconstructed as uksḗn, from before the language spread out geographically and began diverging. That dates it to probably before 3000 BCE.
+
+I have idly wondered what became of these ubiquitous beasts of burden. They are everywhere in the history books, even appearing as a Chinese zodiac symbol. Why have I never seen an ox? I was 38 years old when I learned that *ox* actually means "cow or bull that is used as a beast of burden". Oxen are cows. I mean, technically cows are the term for female cattle and most oxen are male, but the answer to my question about where they went is "we don't use cows to pull things any more". It turns out the ox is a Western zodiac symbol too; it's just called Taurus there.

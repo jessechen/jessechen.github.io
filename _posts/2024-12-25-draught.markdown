@@ -3,7 +3,7 @@ layout: post
 title: draught
 date: 2024-12-25
 categories: etym
-origin: -4000
+origin: -3000
 ---
 The archaic term for a quantity of liquid *draught* predates English. It's related to the Old English verb *dragan*, "to drag", which probably comes directly from Proto-Indo-European dʰregʰ, "to pull". The word started referring to a liquid quantity because for most of history, beer barrels were dragged to the customer's table and tapped right there. This only started changing when John Lofting, a London inventor from the Netherlands, invented the "beer engine" in 1691, a system of flexible hoses that allowed bartenders to manually pump beer from the cellar directly to the bar. 
 
