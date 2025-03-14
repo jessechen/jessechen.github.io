@@ -1,0 +1,16 @@
+---
+layout: post
+title: shampoo
+date: 2025-03-13
+categories: etym
+origin: 1762
+---
+The liquid surfactant *shampoo* first became a daily ritual in the 1970s. Modern mass-market shampoos date back to 1933 and Procter & Gamble's Drene brand liquid, recommended for use at intervals between every 2 weeks and every 6 weeks. What distinguished Drene from its forebears was its use of synthetic surfactants. Earlier shampoos were soap-based, which is alkaline and hair-damaging because of its lye base.
+
+The first popular commercial shampoo was created in 1909, H. S. Peterson's Canthrox. It was a powdered soap that you'd dissolve in water to make the liquid. It postdates an example of my favorite genre of historical articles: the New York Times explaining how to do something that seems ridiculously obvious to us today, but was novel at the time. Here's a [1908 NYT article](https://www.nytimes.com/1908/05/10/archives/how-to-shampoo-the-hair-specialists-recommend-its-accomplishment.html) explaining how to use shampoo. Before that, people washed their hair with other natural but less effective surfactants, such as bear fat or eggs.
+
+The generic name *shampoo* comes from a 1900 Swiss liquid soap with the brand name Champooing, invented by J. W. Rausch. This was named to evoke "shampooing", a then-popular type of luxurious spa treatment. That *shampoo* originates with British entrepreneurs Sake Dean Mahome and Jane Daly, who opened the first "shampooing" parlor in Brighton in 1814.
+
+Dean grew up in India and was familiar with the practice of champu, meaning body massage, as part of a spa routine. The word is first found in English in 1762, borrowed from the Hindi word चाँपो (cā̃pō), meaning press, squeeze, or knead. That word can be traced back to Sanskrit चपयति (capayati), meaning pound or knead.
+
+Shampoo is one of those words that has since been borrowed into many, many other languages from English, including making its way back to Hindi as शैंपू (śaimpū).
