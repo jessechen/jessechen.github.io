@@ -1,0 +1,12 @@
+---
+layout: post
+title: haywire
+date: 2025-03-23
+categories: etym
+origin: 1929
+---
+The descriptor *haywire* in its modern sense of "wild" or "disorderly" originates from New England logging slang in the 1910s. Loggers would use the ubiquitous *haywire* to make temporary repairs, so the term came to mean "shoddy" or "improvised". You can see how the current meaning could be one semantic drift away from that.
+
+There's a related term that still means "shoddy" or "improvised". Until today, I thought baling twine was the same thing as haywire. It turns out baling *wire* is a synonym for haywire. Baling *twine* is also used to arrange hay bales compactly for transport, but they're as different as eyeliner and eyeshadow. That's what "duct tape and baling twine" refers to.
+
+Haywire started becoming ubiquitous with the first commercialized hay baler in 1874, which used wire to bind hay in the (long since obsolete) rectangular bales you see at hayrides. Before that, farmers used pitchforks to pitch and store hay in haystacks. Its component words, *hay* and *wire*, both predate English and may well be thousands of years old.
