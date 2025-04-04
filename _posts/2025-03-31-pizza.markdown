@@ -1,0 +1,10 @@
+---
+layout: post
+title: pizza
+date: 2025-03-31
+categories: etym
+origin: 1931
+---
+The food *pizza* was popularized in NYC in 1931. The first American pizzeria, Lombardi's, had opened in 1905, but called its specialty "tomato pie". The word *pizza* is a direct borrowing from Neapolitan *pizza*, meaning pizza. It was still uncommon enough by 1944 that the NYT ran an article explaining how to eat pizza, clarifying the unfamiliar foreign pronunciation of the word.
+
+The Neapolitan tradition of pizza is a long one, although the modern tomato-basil-mozzarella margherita we're familiar with only dates back to the 1860s. Tomatoes were still an uncommon food in Europe at the time. They were considered poisonous due to their relation to the deadly nightshade plant. Pizzas were a Naples specialty well before 1800, although we'd classify those items as flatbreads today. The Italian word likely comes from Byzantine Greek πίτα (píta), meaning cake, and is attested in local Latin texts as early as 1107.
