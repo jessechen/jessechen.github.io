@@ -1,0 +1,10 @@
+---
+layout: post
+title: mutt
+date: 2025-04-08
+categories: etym
+origin: 1901
+---
+The dog descriptor *mutt* meaning a non-purebred is first seen in dog breeding magazines in 1910. The adjective was actually first applied to people, with a meaning of "idiot", a few years earlier in 1901. It was a short form of *muttonhead*, which had been a common word for "idiot" since 1803.
+
+*Mutton* itself is one of the Norman French words that were borrowed into English after the Norman Conquest. Norman French was the high class language to the peasants' English. One of the ways this manifested is the French words for animals were used for meat, which nobles discussed, while the English words remained in use for animals. Some words for meat with this origin borrowed between 1066 and 1300 are *mutton*, *beef*, *pork*, *poultry*, *veal*, *venison*, and uh, *pigeon*. The corresponding terms in Old English were *scēap*, *cū*, *swīn*, *cicen*, *cealf*, *heorot* (Modern English *hart*; *deer* meant "animal", as with German *Tier*), and *dūfe* (Modern English *dove*).

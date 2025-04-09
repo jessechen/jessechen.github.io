@@ -9,7 +9,6 @@ I've enjoyed constrained writing (e.g. [Oulipo](https://en.wikipedia.org/wiki/Ou
 So my day 1 solution will not include the letter 'e', day 2 will not include the letter 't', and so on. I'm excited to try this out. Here's day 1:
 
 <hr>
-
 ## Day 1 | Ruby | Avoiding fifth glyph
 <pre>
 # part 1
