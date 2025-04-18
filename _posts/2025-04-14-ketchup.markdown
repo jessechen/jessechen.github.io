@@ -1,0 +1,10 @@
+---
+layout: post
+title: ketchup
+date: 2025-04-14
+categories: etym
+origin: 1682
+---
+The sauce *ketchup* first appears English as a description of a Southeast Asian import in 1682, originally spelled *catchup*. It's likely from Hokkien Chinese 膎汁 (kê-chiap), meaning "fish sauce". There's debate on whether that word was directly borrowed or it first passed through Malay *kicap*, meaning "soy sauce". In any case, it was a savory, sweet, and sour sauce using fish or soy as the primary ingredient. Anchovies remained a common ingredient until the 1850s. Catsup quickly gained popularity in British cuisine. Local recipes typically substituted in a more available mushroom base by the 1770s.
+
+Catsup with a tomato base instead of a mushroom base first appears in the US in 1812 and became the predominant form there by 1837. Notably, Heinz began selling tomato ketchup in 1876 with that spelling. Heinz ketchup's enduring popularity (60% US market share) led to *ketchup* taking over as the default spelling over *catsup*. Modern ketchup originates from a 1909 recipe with much more sugar and vinegar to increase shelf stability, after the 1906 Pure Food and Drug Act banned the preservative sodium benzoate.
