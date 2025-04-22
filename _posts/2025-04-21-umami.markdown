@@ -1,0 +1,8 @@
+---
+layout: post
+title: umami
+date: 2025-04-21
+categories: etym
+origin: 1963
+---
+The basic taste *umami* is first borrowed into English from Japanese 旨味 (umami) in 1963. It was not widely accepted as one of the currently five basic tastes until after 1985. (I myself learned there were only four basic tastes in elementary school.) 旨味 was coined by its discoverer, Japanese chemist 池田 菊苗 (Kikunae IKEDA) in 1908, from the root うまい (umai), meaning "delicious", and the noun suffix み (mi), meaning "-ness". うまい itself is attested as early as 759, but has an unclear origin beyond that.
