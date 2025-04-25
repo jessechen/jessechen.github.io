@@ -5,7 +5,7 @@ permalink: /other/
 ---
 <main>
     <h1 class="page-heading">Index of other posts</h1>
-    <h2>Humanism</h2>
+    <h2>On being human</h2>
     <ul>
         {%- for post in site.categories.human -%}
         <li>
@@ -14,7 +14,7 @@ permalink: /other/
         </li>
         {%- endfor -%}
     </ul>
-    <h2>Programming</h2>
+    <h2>On programming</h2>
     <ul>
         {%- for post in site.categories.programming -%}
         <li>
