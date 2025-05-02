@@ -1,0 +1,12 @@
+---
+layout: post
+title: weekend
+date: 2025-04-25
+categories: etym
+origin: 1793
+---
+The periodic time period *weekend* is first found in 1793 as a North England regionalism. It did not enter general English usage until 1878. This delay is probably because instead of "weekend", you could just as well say "Sunday" or "Sabbath". Six-day work weeks were the norm for most of history, including the 1800s. Which day was the day of rest differed by religion, typically Sunday for Christian countries, Saturday for Jewish communities, and Friday for Muslim countries.
+
+According to UK records, the average worker worked 70 hours a week in 1800. This number only began to decrease in the 1870s as workers gained bargaining and political power through collective organizing and increased skill requirements. One UK movement in this period advocated for giving workers Saturday off after 2pm in exchange for the pledge to be refreshed and sober on Monday morning. Over the next 30 years, half-day Saturdays went from unthinkable to radical to sensible to policy, enabling the newly radical eight-hour day movement to begin agitating in the 1910s. They advocated for "8 hours for labour, 8 hours for rest, 8 hours for recreation" and a fully five-day workweek, which was first instituted by a single US cotton mill in 1908.
+
+Spain became the first country to enshrine the 40-hour workweek into law in 1919. The US did not follow suit until 1940, although Ford was shutting down its factories all day Saturday and Sunday by 1926. The enactment of the 1938 Fair Labor Standards Act, which also established the first federal minimum wage of 25 cents per hour, was celebrated on Labor Day for decades. Futurists writing in the 1920s and 1930s extrapolated this historical trend of increased worker power and leisure to fifteen-hour workweeks by the year 2000. Clearly this has not come to be, but average hours worked per year in the UK has at least decreased roughly linearly from 2,257 in 1925 to 1,670 in 2017.
