@@ -1,7 +1,7 @@
 ---
 layout: post
 title: checkmate
-date: 2025-05-39
+date: 2025-05-30
 categories: etym
 origin: 1340
 ---
