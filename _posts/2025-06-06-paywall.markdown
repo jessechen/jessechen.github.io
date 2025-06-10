@@ -1,0 +1,12 @@
+---
+layout: post
+title: paywall
+date: 2025-06-06
+categories: etym
+origin: 2004
+---
+The virtual palisade *paywall* is first used to describe a membership-restricted sports website in 2004. The Wall Street Journal's site had been paywalled since 1996, but this was such a rare practice that we didn't need a word for it until much later. The Great Paywalling did not in fact begin until the early 2010s, when it became clear the previously dominant ad-supported model could not sustainably fund good journalism. For example, the NYT's paywall went up in March 2011.
+
+*Paywall* is obviously a compound of the common words *pay-* and *-wall*, but the choice of *-wall* in particular is influenced by the parallel *firewall*. Referring to computer security systems since 1971 and popularized in the 1983 hacker movie WarGames ("the only winning move is not to play"), a *firewall* referred to any system that separated unauthorized users from other critical systems. It settled on its current more specific meaning of a passive deterrence that blocks automated intrusions in the 1990s.
+
+*Firewall*'s computer security meaning arose from a metaphor for its physical meaning, a fire-resistant barrier preventing the spread of fires by separating burnable things from each other. Uncontained, wildly spreading fires used to be a major problem for cities; *firewalls*, first attested in 1851, were one of many tools developed and deployed to combat this. The more general meaning of a protective barrier of any sort is from 1907.
