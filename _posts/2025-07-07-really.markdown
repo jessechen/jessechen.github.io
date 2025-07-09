@@ -1,0 +1,10 @@
+---
+layout: post
+title: really
+date: 2025-07-07
+categories: etym
+origin: 1561
+---
+The general intensifier *really* arrived at its current meaning around 1561. The word in its original meaning of "actually", from *real* + *-ly*, is attested from the 1450s. *Real* is one of the many words borrowed into English from Norman French in the 1300s, in this case from *reel*, meaning "actual". *Reel* descends straightforwardly from Latin *reālis*, also meaning "actual", which derives from earlier Latin *rēs*, meaning "thing" or "matter".
+
+*Really*'s gradual shift from meaning "actually" to meaning "very" is surprisingly precedented! The "actually" sense of *truly* (Old English *trēowe*, meaning "true") goes back over a thousand years, but its recent meaning shift toward "very" is not even acknowledged by the OED yet. (It is acknowledged in the other dictionaries I checked.) Even the canonical general intensifier *very* (Latin *vērus*, meaning "true") shifts in meaning from "actually" in 1200-1500 to, uh, "very" after 1550. *Literally* (Latin *littera*, meaning "letter") in the process of shifting from "actually" to "very" is in very good company.
