@@ -1,0 +1,12 @@
+---
+layout: post
+title: wizard
+date: 2025-07-08
+categories: etym
+origin: 1600
+---
+The archetype *wizard* arrives at its current meaning of "occult magician" around 1600. Before that, it meant something closer to "sage", illustrated by its components of *wise* + *-ard* when it was coined around 1440. *Wise* predates English and can be reconstructed back to Proto-Germanic *wīsaz*, meaning wise, and even beyond that to PIE *weyd-*, meaning "to see".
+
+*-ard*, meanwhile, hasn't been a productive suffix for a long time, so I found it helpful to look at other words that include it: *drunkard*, *dotard*, *dullard*. Wiktionary aptly describes it as a "pejorative agent suffix", so *wizard* probably originally meant something like contemporary "smartass".
+
+The more modern sense of "ace" or "skilled practicioner" dates to the 1850s, probably generalizing from aces nicknamed "wizard". *Whiz*, like in "math whiz", from 1921, is possibly derived from this sense. The phrase Pinball Wizard was made famous by The Who's 1969 song. Influenced by the "ace" sense, Microsoft began calling guided multi-step guided workflows "wizards" in 1991, leading to "install wizard" becoming a common phrase by 2001.
