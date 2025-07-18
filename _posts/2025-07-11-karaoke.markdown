@@ -1,0 +1,12 @@
+---
+layout: post
+title: karaoke
+date: 2025-07-11
+categories: etym
+origin: 1977
+---
+The activity *karaoke*, first attested in 1977, is a loanword from Japanese カラオケ (karaoke), meaning "karaoke". It's clear that it's become a naturalized English word since then when you look at its pronunciation: "carry-OH-key" is almost unrecognizable next to "kah-rah-oh-KAY".
+
+カラオケ is a portmanteau of 空 (kara), meaning "empty", and オーケストラ (ōkesutora), a loanword from English meaning "orchestra". The Japanese neologism also dates to 1977, even though prototype karaoke machines were built as early as 1971. The innovation that distinguishes karaoke from the sing-along songs that inspired it is the removal of the lead vocal track. The opportunity opened up with the extra storage available in jukeboxes powered by 8-track tapes rather than records. Before everyone settled on calling it "karaoke", some of the prototypes were called "8 Juke", "Sing-Along System", and "Sparko Box".
+
+*Orchestra*, first attested in English in 1606, is a loanword from Latin orchēstra, meaning "orchestra". That in turn is a loanword from Greek ὀρχήστρα (orkhḗstra), derived from the root  ὀρχέομαι (orkhéomai), meaning "to dance".
