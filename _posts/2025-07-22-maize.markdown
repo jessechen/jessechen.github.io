@@ -7,7 +7,7 @@ origin: 1541
 ---
 The grain *maize* is first found in English as a loanword from Spanish *maíz* in 1541. Maíz is first attested in Spanish by Christopher Columbus in 1500 as a loanword from Taíno *mahis*, meaning "maize". Maize was first domesticated in what is now southern Mexico about 9,000 years ago (compare to wheat 12,000 years ago, rice 9,000 years ago) from wild teosinte.
 
-![Ears of wild teosinte, a teosinte-maize hybrid, and maize, from left to right. The teosinte is reddish-brown and has about 24 total kernels. The maize is two and a half times longer and about six times wider than the teosinte.](https://upload.wikimedia.org/wikipedia/commons/a/a7/Cornselection.jpg)
+![Ears of wild teosinte, a teosinte-maize hybrid, and maize, from left to right. The teosinte is reddish-brown and has about 24 total kernels. The maize is two and a half times longer and about six times wider than the teosinte.](https://upload.wikimedia.org/wikipedia/commons/a/a7/Cornselection.jpg){:.half-width}
 *Ears of wild teosinte, a teosinte-maize hybrid, and maize, from left to right. The teosinte is reddish-brown and has about 24 total kernels. The maize is two and a half times longer and about six times wider than the teosinte.*
 
 The magnitude of this achievement is made apparent by a side-by-side comparison of wild teosinte, which produces a single ear of corn per plant, with maize. Just as striking is the fact that *corn*, the generic word for "grain" in most world Englishes, only means "maize" in US English and Canadian English. (*Corn* and *grain* are an Old English-Norman French doublet that both descend from the same PIE word, ǵr̥h₂nóm.)

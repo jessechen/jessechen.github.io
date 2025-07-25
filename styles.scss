@@ -75,6 +75,10 @@ img + em::before {
     content: 'ID: ';
 }
 
+.half-width {
+    width: 50%;
+}
+
 details[open] summary {
     margin-bottom: 1rem;
 }
