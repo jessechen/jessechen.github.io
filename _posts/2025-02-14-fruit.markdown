@@ -1,0 +1,110 @@
+---
+layout: post
+title: fruit
+date: 2025-02-14
+categories: etym
+origin: 1200
+---
+This is the third in a series of three Swadesh list posts:
+1. [Middle English]({% link _posts/2025-02-11-delve.markdown %})
+2. [Norman French]({% link _posts/2025-02-12-blank.markdown %})
+3. **Why not both?**
+
+I saved the most interesting parts for last, the words at the intersection of those two trends. This first list is words where the Norman French word **actually became the standard English word**, implying that the Old English word either developed a different meaning or fell out of use.
+
+<table>
+<tr>
+<th>Norman French</th><th>Meaning</th><th>Old English</th>
+</tr>
+<tr>
+<td>forest</td><td>forest</td><td>wood has different meaning</td>
+</tr>
+<tr>
+<td>fruit</td><td>fruit</td><td>wastum was lost</td>
+</tr>
+<tr>
+<td>flower</td><td>flower</td><td>blossom has more specific meaning</td>
+</tr>
+<tr>
+<td>vomit</td><td>vomit</td><td>spew has more general meaning</td>
+</tr>
+<tr>
+<td>push</td><td>push</td><td>shove has more specific meaning</td>
+</tr>
+<tr>
+<td>count</td><td>count</td><td>tell has different meaning</td>
+</tr>
+<tr>
+<td>river</td><td>river</td><td>ea was lost</td>
+</tr>
+<tr>
+<td>round</td><td>round</td><td>sinewealt was lost</td>
+</tr>
+</table>
+
+Finally, there are concepts where there were three distinct words.
+<table>
+<tr>
+<th>Norman French</th><th>Former Meaning</th><th>Old English</th>
+</tr>
+<tr>
+<td>grand</td><td>big</td><td>much has different meaning</td>
+</tr>
+<tr>
+<td>petty</td><td>small</td><td>little has more specific meaning</td>
+</tr>
+<tr>
+<td>dame</td><td>woman</td><td>wife has more specific meaning</td>
+</tr>
+<tr>
+<td>marry</td><td>husband</td><td>churl has different meaning (!)</td>
+</tr>
+<tr>
+<td>beast</td><td>animal</td><td>deer has more specific meaning</td>
+</tr>
+<tr>
+<td>serpent</td><td>snake</td><td>adder has more specific meaning</td>
+</tr>
+<tr>
+<td>pelt</td><td>skin</td><td>hide has more specific meaning</td>
+</tr>
+<tr>
+<td>queue</td><td>tail</td><td>start has different meaning (!)</td>
+</tr>
+<tr>
+<td>jamb</td><td>leg</td><td>shank has more specific meaning</td>
+</tr>
+<tr>
+<td>entrails</td><td>guts</td><td>tharm was lost</td>
+</tr>
+<tr>
+<td>respire</td><td>breathe</td><td>ethien was lost</td>
+</tr>
+<tr>
+<td>doubt</td><td>fear</td><td>dread has more specific meaning</td>
+</tr>
+<tr>
+<td>bat</td><td>hit</td><td>slay has more specific meaning</td>
+</tr>
+<tr>
+<td>grate</td><td>scratch</td><td>claw has more specific meaning</td>
+</tr>
+<tr>
+<td>pass</td><td>walk</td><td>go has more general meaning</td>
+</tr>
+<tr>
+<td>return</td><td>turn</td><td>wend has different meaning</td>
+</tr>
+<tr>
+<td>jet</td><td>throw</td><td>warp has different meaning</td>
+</tr>
+<tr>
+<td>route</td><td>road</td><td>street and way have different meanings</td>
+</tr>
+<tr>
+<td>soiled</td><td>dirty</td><td>horry was lost</td>
+</tr>
+<tr>
+<td>just</td><td>correct</td><td>right has more general meaning</td>
+</tr>
+</table>

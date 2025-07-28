@@ -1,0 +1,185 @@
+---
+layout: post
+title: blank
+date: 2025-02-12
+categories: etym
+origin: 1320
+---
+This is the second in a series of three Swadesh list posts:
+1. [Middle English]({% link _posts/2025-02-11-delve.markdown %})
+2. **Norman French**
+3. [Why not both?]({% link _posts/2025-02-14-fruit.markdown %})
+
+The surprise tool that will help us later I alluded to in my Old English post is that I also simultaneously did the same exercise for [Norman French](https://en.wikipedia.org/wiki/Norman_language), to get a better sense of what extent English actually is a [weird French-German creole language](https://www.smbc-comics.com/comic/arthur). To recapitulate, from 1066 to 1327, the kings and queens of England (including Richard the Lionheart and Eleanor of Aquitaine!) only or mostly spoke French. The nobles mostly spoke French and the peasants mostly spoke English, so the French vocabulary borrowed during this period tends to read more high class. In this essay I will thoroughly demonstrate that effect.
+
+Compiling this list was more difficult than I expected, due to needing to determine which words were borrowed specifically from Norman French. Not part of the later wave of Middle French borrowings, not part of the later and continuing wave of Latin borrowings, and not part of the current wave of Modern French borrowings. Most of the words I could think of fell into one of those other three categories, which makes sense; Norman French words feel more foundational and inherent to English than later borrowings.
+
+Here's the list of words where we still use the Old English word for its original meaning, but also adopted the Norman French word to mean something else:
+
+<table>
+<tr>
+<th>Norman French</th><th>Meaning</th>
+</tr>
+<tr>
+<td>comment</td><td>how</td>
+</tr>
+<tr>
+<td>total</td><td>all</td>
+</tr>
+<tr>
+<td>deuce</td><td>two</td>
+</tr>
+<tr>
+<td>trey</td><td>three</td>
+</tr>
+<tr>
+<td>quarter</td><td>four</td>
+</tr>
+<tr>
+<td>peasant</td><td>heavy</td>
+</tr>
+<tr>
+<td>straight</td><td>narrow</td>
+</tr>
+<tr>
+<td>strait</td><td>narrow</td>
+</tr>
+<tr>
+<td>meager</td><td>thin</td>
+</tr>
+<tr>
+<td>peer</td><td>father (!)</td>
+</tr>
+<tr>
+<td>arbor</td><td>tree</td>
+</tr>
+<tr>
+<td>grain</td><td>seed</td>
+</tr>
+<tr>
+<td>foil</td><td>leaf</td>
+</tr>
+<tr>
+<td>herb</td><td>grass</td>
+</tr>
+<tr>
+<td>cord</td><td>rope</td>
+</tr>
+<tr>
+<td>grease</td><td>fat</td>
+</tr>
+<tr>
+<td>plume</td><td>feather</td>
+</tr>
+<tr>
+<td>chief</td><td>head</td>
+</tr>
+<tr>
+<td>chef</td><td>head</td>
+</tr>
+<tr>
+<td>main</td><td>hand (!)</td>
+</tr>
+<tr>
+<td>beverage</td><td>drink</td>
+</tr>
+<tr>
+<td>succour</td><td>suck</td>
+</tr>
+<tr>
+<td>oyez (the attention-getting court word)</td><td>hear</td>
+</tr>
+<tr>
+<td>stink</td><td>smell</td>
+</tr>
+<tr>
+<td>battery</td><td>fight</td>
+</tr>
+<tr>
+<td>catch</td><td>hunt</td>
+</tr>
+<tr>
+<td>gist</td><td>lie down</td>
+</tr>
+<tr>
+<td>lever</td><td>stand</td>
+</tr>
+<tr>
+<td>chant</td><td>sing</td>
+</tr>
+<tr>
+<td>joy</td><td>play</td>
+</tr>
+<tr>
+<td>cool</td><td>flow</td>
+</tr>
+<tr>
+<td>inflame</td><td>swell</td>
+</tr>
+<tr>
+<td>powder</td><td>dust</td>
+</tr>
+<tr>
+<td>fume</td><td>smoke</td>
+</tr>
+<tr>
+<td>ardor</td><td>burn</td>
+</tr>
+<tr>
+<td>rouge</td><td>red</td>
+</tr>
+<tr>
+<td>blank</td><td>white (!)</td>
+</tr>
+<tr>
+<td>plain</td><td>full</td>
+</tr>
+<tr>
+<td>novel</td><td>new</td>
+</tr>
+<tr>
+<td>ancient</td><td>old</td>
+</tr>
+<tr>
+<td>boon</td><td>good</td>
+</tr>
+<tr>
+<td>trenchant</td><td>sharp</td>
+</tr>
+<tr>
+<td>noun</td><td>name</td>
+</tr>
+</table>
+
+That list is totally wild to me. Every Main Street everywhere is named after a word that once meant "hand"! It's stunning just how essential some of those words feel to English. As well they should; they've been there for over 700 years.
+
+As an addendum, here's a shorter list where we kept the Norman French word, but only in an inflected form:
+<table>
+<tr>
+<th>Norman French</th><th>Meaning</th>
+</tr>
+<tr>
+<td>verm(in)</td><td>worm</td>
+</tr>
+<tr>
+<td>sang(uine)</td><td>blood</td>
+</tr>
+<tr>
+<td>(uni)corn</td><td>horn</td>
+</tr>
+<tr>
+<td>mang(y)</td><td>eat</td>
+</tr>
+<tr>
+<td>pens(ive)</td><td>think</td>
+</tr>
+<tr>
+<td>dorm(ant)</td><td>sleep</td>
+</tr>
+<tr>
+<td>ten(nis)</td><td>hold</td>
+</tr>
+<tr>
+<td>con(geal)</td><td>freeze</td>
+</tr>
+</table>
