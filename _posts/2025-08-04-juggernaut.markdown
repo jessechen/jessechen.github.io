@@ -1,7 +1,7 @@
 ---
 layout: post
-title: laser
-date: 2025-07-25
+title: juggernaut
+date: 2025-08-04
 categories: etym
 origin: 1854
 ---
