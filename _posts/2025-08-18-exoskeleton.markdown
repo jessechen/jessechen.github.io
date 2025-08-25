@@ -1,7 +1,7 @@
 ---
 layout: post
 title: exoskeleton
-date: 2025-08-13
+date: 2025-08-18
 categories: etym
 origin: 1847
 ---
