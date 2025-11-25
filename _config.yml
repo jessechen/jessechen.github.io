@@ -6,7 +6,6 @@ description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://approximateknowledge.net" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
-google_analytics: G-MRTTMV42N7
 collections:
   - projects
 header_pages:
