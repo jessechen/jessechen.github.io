@@ -1,0 +1,12 @@
+---
+layout: post
+title: serendipity
+date: 2025-12-13
+categories: etym
+origin: 1754
+---
+The phenomenon *serendipity* was named by English writer Horace Walpole in 1754, by analogy to the accidental discovery in the Persian fairy tale "The Three Princes of Serendip". Walpole used the neologism in a letter to his friend, which became part of a collection that was published in 1833, 35 years after his death. The word remained obscure until an 1877 US magazine called attention to the letter. It only began appearing in dictionaries in the 1890s.
+
+The fairy tale "The Three Princes of Serendip" took quite a journey before finally arriving in England in 1722, as a translation of a French translation. It first appeared in Italian in 1557, part of a translation of the Persian هشت بهشت (Hasht Bihisht), meaning "Eight Paradises", written around 1302. The story is set in the Sassanid Empire of 420-440 and is first found written down in the Hasht Bihisht.
+
+Serendip (سرندیپ) is the Classical Persian name for the island that is now called Sri Lanka. It is possibly from Sanskrit सिंहल द्वीप (Sinhala-dvipa), meaning "Sinhala Isle". Sinhala is the name of the ethnic majority living on the island, who first arrived and began taking over around 543 BCE. That name is derived from Sanskrit सिंह (siṃhá), meaning "lion". The Sinhalese name for the island is Sinhale. By the 800s it was pronounced Saylan, which the Portugese transliterated as Ceilão (English *Ceylon*) when they colonized it in 1517. Since its independence in 1972, the island has been named Sri Lanka. श्री (śrī́) is the Sanskrit honorific and लङ्का (laṅkā) is Sanskrit for "island". 
