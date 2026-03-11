@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Frankensteined history
-date: 2026-02-16
+date: 2026-02-20
 categories: misc
 ---
 Today I learned that the 1818 sonnet *Ozymandias*, most famous for its excerpt "Look on my works, ye Mighty, and despair! No thing beside remains", is actually one of *two* sonnets titled Ozymandias published in British intellectual journal *The Examiner* in 1818. Its author, Percy Shelley, wrote it as part of an informal contest with his friend Horace Smith to write a poem on that topic. Wikipedia has the text of Smith's losing and infinitely less famous sonnet at https://en.wikipedia.org/wiki/Ozymandias_(Smith).
