@@ -6,11 +6,11 @@ permalink: /words/
 <main class="words">
     <p>Welcome! Not sure where to start reading? How about one of the posts I'm happiest with:</p>
     <ul>
-        <li><a href="{% link _posts/2023-10-17-spam.markdown %}">spam</a></li>
-        <li><a href="{% link _posts/2023-09-13-orange.markdown %}">orange</a></li>
-        <li><a href="{% link _posts/2024-05-28-roshambo.markdown %}">roshambo</a></li>
-        <li><a href="{% link _posts/2025-01-15-minute.markdown %}">minute</a></li>
-        <li><a href="{% link _posts/2024-09-24-cologne.markdown %}">cologne</a></li>
+        <li><a href="{% link _posts/2023-10-17-spam.md %}">spam</a></li>
+        <li><a href="{% link _posts/2023-09-13-orange.md %}">orange</a></li>
+        <li><a href="{% link _posts/2024-05-28-roshambo.md %}">roshambo</a></li>
+        <li><a href="{% link _posts/2025-01-15-minute.md %}">minute</a></li>
+        <li><a href="{% link _posts/2024-09-24-cologne.md %}">cologne</a></li>
     </ul>
     <hr/>
     <h1 class="page-heading">Index of all words</h1>

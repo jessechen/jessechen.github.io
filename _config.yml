@@ -9,16 +9,16 @@ theme: minima
 collections:
   - projects
 header_pages:
-  - words.markdown
+  - words.md
   - projects.html
-  - other.markdown
-  - about.markdown
+  - other.md
+  - about.md
 paginate: 5
 plugins:
   - jekyll-feed
   - jekyll-paginate
 exclude:
-  - README.markdown
+  - README.md
   - LICENSE
   - Gemfile
   - vendor/
