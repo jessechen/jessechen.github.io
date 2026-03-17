@@ -8,9 +8,9 @@ permalink: /category/
     <p>Welcome! Not sure where to start reading? How about one of the posts I'm happiest with:</p>
     <ul>
         <li><a href="{% link _posts/2023-10-17-spam.md %}">spam</a></li>
-        <li><a href="{% link _posts/2023-09-13-orange.md %}">orange</a></li>
-        <li><a href="{% link _posts/2024-05-28-roshambo.md %}">roshambo</a></li>
+        <li><a href="{% link _posts/2026-02-18-vitamin.md %}">vitamin</a></li>
         <li><a href="{% link _posts/2025-01-15-minute.md %}">minute</a></li>
+        <li><a href="{% link _posts/2023-09-13-orange.md %}">orange</a></li>
         <li><a href="{% link _posts/2024-09-24-cologne.md %}">cologne</a></li>
     </ul>
     <p>Or browse <a href="{% link date.md %}">all posts by date</a>, or <a href="{% link words.md %}">all etymologies by year of origin</a> instead.</p>
