@@ -24,7 +24,7 @@ h1 a {
 }
 </style>
 
-Hi, I'm Jesse. This personal blog is themed around the [demon cat with approximate knowledge of many things](https://adventuretime.fandom.com/wiki/Demon_Cat). Besides showcasing my interactive visual art projects, it includes explorations of etymology and the history of technology.
+Hi, I'm Jesse. This personal blog is themed around the [demon cat with approximate knowledge of many things](https://adventuretime.fandom.com/wiki/Demon_Cat). I write about histories of English words, and sometimes other things. The second-clearest throughline is probably the history of technology, especially that of the last 200 years. All my interactive visual art projects are also showcased here.
 
 You can find me on Github at [github.com/jessechen](https://github.com/jessechen).
 
