@@ -4,18 +4,9 @@ title: Words
 permalink: /words/
 ---
 <main class="words">
-    <p>Welcome! Not sure where to start reading? How about one of the posts I'm happiest with:</p>
-    <ul>
-        <li><a href="{% link _posts/2023-10-17-spam.md %}">spam</a></li>
-        <li><a href="{% link _posts/2023-09-13-orange.md %}">orange</a></li>
-        <li><a href="{% link _posts/2024-05-28-roshambo.md %}">roshambo</a></li>
-        <li><a href="{% link _posts/2025-01-15-minute.md %}">minute</a></li>
-        <li><a href="{% link _posts/2024-09-24-cologne.md %}">cologne</a></li>
-    </ul>
-    <hr/>
-    <h1 class="page-heading">Index of all words</h1>
+    <h1 class="page-heading">Index of all words by year of origin</h1>
     <p>
-        In this index, I'm doing a thing you should absolutely never do. I'm using significant figures with years instead of writing e.g. "1730s" or "late 14th century", so that they sort in an aesthetically pleasing way. Very, very loosely speaking:
+        In this index, I'm doing a thing you really shouldn't do. I'm using significant figures with years instead of specifying e.g. "1730s" or "late 14th century", so that they sort in an aesthetically pleasing way. Loosely speaking:
         <ul>
             <li>dates more than 250 years old are accurate to within 10 years</li>
             <li>dates more than 500 years old are accurate to within 30 years</li>
@@ -25,7 +16,7 @@ permalink: /words/
         </ul>
     </p>
     <ol>
-        {% assign sortedPosts = site.categories.etym | sort: "origin" %}
+        {% assign sortedPosts = site.categories.etym | sort: "origin" | reverse %}
         {%- for post in sortedPosts -%}
         <li>
             <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>

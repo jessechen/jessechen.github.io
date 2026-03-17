@@ -9,9 +9,8 @@ theme: minima
 collections:
   - projects
 header_pages:
-  - words.md
+  - category.md
   - projects.html
-  - other.md
   - about.md
 paginate: 5
 plugins:
