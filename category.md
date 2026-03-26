@@ -43,6 +43,15 @@ permalink: /category/
         </li>
         {%- endfor -%}
     </ul>
+    <h2>Written while aspiring to become a dramatically better writer</h2>
+    <ul>
+        {%- for post in site.categories.inkhaven -%}
+        <li>
+            {{ post.date | date: "%Y-%m-%d" }}:
+            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </li>
+        {%- endfor -%}
+    </ul>
     <h2><a href="https://en.wikipedia.org/wiki/Celestial_Emporium_of_Benevolent_Knowledge">Et cetera</a></h2>
     <ul>
         {%- for post in site.categories.misc -%}
