@@ -1,0 +1,18 @@
+---
+layout: post
+title: Why histories of words?
+date: 2026-04-03
+categories: inkhaven
+---
+[![Colorful diagram of each letter of the alphabet and its ancestors through Latin, Greek, Phoenician, and Proto-Sinaitic.](/assets/evolution-alphabet.webp)](https://usefulcharts.com/blogs/charts/evolution-of-the-english-alphabet)
+*ID: Colorful diagram of each letter of the alphabet and its ancestors through Latin, Greek, Phoenician, and Proto-Sinaitic.*
+
+So, why histories of words? What unusual circumstances conspired to drive me to select this one extremely specific niche as my creative outlet?
+
+Between histories and words, words are more straightforward to explain. I love words. I read myself into myopia by the age of six. I'd read anything and everything, which my parents gladly encouraged, as their (totally fine) spoken English was far better than their written English. I relayed the contents of parenting advice pamphlets to my parents when I was ten. They'd drop me off at the library on weekends. The library is not childcare! But I appreciated the childcare it provided me. Growing up in the 1900s, I stumbled upon [Jed Hartman](https://www.kith.org/jed/lorem-ipsum/)'s delightful [language blog](https://web.archive.org/web/20001018144129/http://www.kith.org/logos/words/back-issues.html), sparking a lifelong love of wordplay. Rare words get stuck in my head the way people get songs stuck in their head, a mental quirk I find annoying just as much as I find it useful.
+
+My interest in histories began less directly. As a child, I read widely enough to absorb the advice that childlike wonder was precious and worth preserving. So I dutifully tried to preserve it. I'm happy to report that I still regularly experience childlike wonder, however diminished, in the form of an ambient impulse of "Huh, why is that there? What is its purpose? Who keeps it working? When did we start doing things like that?" The impulse still evokes surprise and awe at all the *stuff* we managed to do across hundreds of lifetimes. Decades of this eventually got me asking second-degree questions to sustain the same joy of discovery, then third-degree questions. And I came to appreciate that not only does everything have a story, the components of its story also each have their own stories, and the components of *those* stories can all somehow eventually be determined to be Plato's fault.
+
+I credit David Crystal's [The Story of English in 100 Words](https://www.librarything.com/work/11503166/t/The-Story-of-English-in-100-Words) as the inspiration for my particular format. Because my burning question is "why this thing", I favor detailed histories of specific things over general overviews. Crystal's book showed me that you can use those specific histories to tell a larger, compelling story that lets you take in the overall arc of history through osmosis, even as it focuses on the details. I aspire to someday publish my own general history told through the medium of histories of words, specifically focused on the history of technology.
+
+If my work has a core thesis, it's that *we made it all up*. [Dollars]({% link _posts/2024-08-12-dollar.md %}) to donuts, crimes and punishments, [weekends]({% link _posts/2025-04-25-weekend.md %}) and holidays, *we made it all up*! That's awe-inspiring and wonderful, and that also means we can change these things if we can get enough people to agree to. I don't want to be obtusely postmodern here; there's clearly a base reality underlying it all that we did not make up. But 99% of the stuff we see, interact with, and think about on a daily basis is human-made, artificial, and of our own laborious construction. And that means we can change them, and make more things like them.
