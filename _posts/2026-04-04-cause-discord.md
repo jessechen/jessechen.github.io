@@ -11,14 +11,14 @@ Stop me if you've heard this one before: is a hot dog a sandwich?
 
 No wait, come back. It's a meme question because it works. Well. It doesn't really work any more because now everyone knows everyone knows it's a meme question. But asking questions of that nature does work. Consider a fictional example:
 
-Mallory: Does a tuna salad count as a salad?
-Alice: Hmm. I don't think so, since the tuna's cooked and salads only contain raw things.
-Mallory: Interesting. So is a beet salad a salad?
-Alice: Only if the beets are raw? That suddenly doesn't feel right to me.
-Bob: Wait, no. Those are both obviously salads. They have salad in the name.
-Mallory: Huh. Then would you say a fruit salad is a salad?
-Carol: That can't be a salad! It's sweet and salads can't be sweet.
-Alice: What? You're crazy. That's definitely a salad.
+* **Mallory**: Does a tuna salad count as a salad?
+* **Alice**: Hmm. I don't think so, since the tuna's cooked and salads only contain raw things.
+* **Mallory**: Interesting. So is a beet salad a salad?
+* **Alice**: Only if the beets are raw? That suddenly doesn't feel right to me.
+* **Bob**: Wait, no. Those are both obviously salads. They have salad in the name.
+* **Mallory**: Huh. Then would you say a fruit salad is a salad?
+* **Carol**: That can't be a salad! It's sweet and salads can't be sweet.
+* **Alice**: What? You're crazy. That's definitely a salad.
 
 You can see how it would work. If everyone leans toward accepting, come up with less and less salad-like examples until you find a crux. And do the opposite if everyone instead leans toward rejecting. Is a pile of croutons a salad? Is a chicken fajita a salad? Is a salad wrap a salad?
 
