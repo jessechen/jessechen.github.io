@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I think I will cause discord on purpose
-date: 2026-04-05
+date: 2026-04-04
 categories: inkhaven
 image: /assets/discord.svg
 ---
