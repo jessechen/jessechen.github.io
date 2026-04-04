@@ -3,6 +3,7 @@ layout: post
 title: Why histories of words?
 date: 2026-04-03
 categories: inkhaven
+image: /assets/evolution-alphabet.webp
 ---
 [![Colorful diagram of each letter of the alphabet and its ancestors through Latin, Greek, Phoenician, and Proto-Sinaitic.](/assets/evolution-alphabet.webp)](https://usefulcharts.com/blogs/charts/evolution-of-the-english-alphabet)
 *ID: Colorful diagram of each letter of the alphabet and its ancestors through Latin, Greek, Phoenician, and Proto-Sinaitic.*
