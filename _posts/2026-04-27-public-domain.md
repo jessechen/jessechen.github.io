@@ -1,0 +1,37 @@
+---
+layout: post
+title: Mickey Mouse legislation
+date: 2026-04-27
+categories: inkhaven
+image: /assets/mickey.jpg
+---
+My journey started with an innocent question. In 2002, a younger, more innocent Jesse was enraptured by a new hyperlinked online encyclopedia that started gaining traction. It still had many placeholder articles, which contained text copied verbatim from the 1911 Encyclopedia Britannica. 1911?, young Jesse wondered. That's almost a hundred years ago! Surely there must be a more recent edition available for this so-called Wikipedia to crib from.
+
+There was not.
+
+Twenty-four years later, I write to you from the other side of a lifelong obsession with the public domain.
+
+The public domain is best described by the quality it lacks: copyright. Anyone can legally adapt, copy, or transform any public domain work for any reason. For example, Project Gutenberg can provide the full text of public domain books to everyone at no cost. We owe our innumerable adaptations of Shakespeare and the Grimm folktales to their public domain status.
+
+Today, any work created before 1931 is public domain. Fifty years ago, any work created before 1920 was public domain. Just look how common reimagings of properties from before 1920 are. Alternate takes on The Wizard of Oz (1900). The Cthulhu mythos (1919). Sherlock Holmes's myriad incarnations (1887). Alice's wonderland adventures (1865). The world is poorer for the 39 missing years that copyright extensions have stolen from us. Instead of distant works from 1930, we could be in conversation with resonant works from 1969.
+
+1969! Imagine what that would be like. In that world, anyone could make [indie films starring the Joker as a trans woman](https://en.wikipedia.org/wiki/The_People%27s_Joker) without being ready for a multimillion-dollar lawsuit. Beatles cover albums could be as common as classical cover albums. Anyone could put their Kirk/Spock slashfic on bookstore shelves and auction off the movie rights. Casablanca might have a hit musical deconstructing it that goes on to inspire a series of two movies. Works like those are a part of our cultural background, and we should have a right to engage with them as we like.
+
+How did it come to this? In 1842, Charles Dickens traveled across the US on a book tour. It was his first time visiting the country. The 30-year-old chronicled his strange experiences in the strange land in a travelogue, *American Notes for General Circulation*. He had yet to write his 1843 masterpiece, *A Christmas Carol*.
+
+Dickens was confronted with cheap bootleg copies of his work everywhere. Flooded by requests to sign books he never saw any profit from, he testily wrote treatises advocating international copyright. At the time, UK copyright law granted exclusive rights to publishers for 14 years from first publication under the 1710 Statute of Anne, with an extension of 14 additional years if the author was still alive to request it. US law was then defined by the Copyright Act of 1790, ironically a near-verbatim copy of the Statute of Anne. To Dickens's chagrin, neither law restricted works created in other countries.
+
+Dickens's international copyright work culminated in the 1886 Berne Convention. That first international agreement established the norm of a 50-year copyright term. (The US agreed to its terms fashionably late, in 1988.)
+
+![Animation cel from Steamboat Willie. A black-and-white Mickey Mouse cheerfully steers a boat down a river with a ship's wheel. Notably, Mickey is not wearing his iconic gloves.](/assets/kava.jpg)
+*Animation cel from Steamboat Willie. A black-and-white Mickey Mouse cheerfully steers a boat down a river with a ship's wheel. Notably, Mickey is not wearing his iconic gloves.*
+
+In the 1970s, Disney realized it had a problem. Steamboat Willie, the first animated short featuring Mickey Mouse, was from 1928. At that time, US copyright law protected a work for 28 years by default, plus a 28 year-extension on request, for a total of 56 years. If Disney didn't take drastic action, Mickey Mouse would enter the public domain in 1985, causing a financial crisis for the company. So Disney sent money through lobbyists to Congress, which was revising US copyright law to conform to the Berne Convention. The resulting Copyright Act of 1976 extended copyright terms, from the previous maximum of 56 years, to 75 years after date of publication. Works from 1918 entered the public domain in 1975. Works from 1919 entered the public domain in 1976. Works from 1920 would not enter the public domain until 1996. The mouse was safe.
+
+In 1998, they did it *again*. They even had the nerve to deploy the name of Cher's recently-deceased husband to gin up Congressional support for the Sonny Bono Copyright Term Extension Act. Its opponents called it the Mickey Mouse Act. 95 years after date of publication. Reader, I was furious to learn about this in 2002. Absolutely livid. Works from 1921 entered the public domain in 1997. Works from 1922 entered the public domain in 1998. Works from 1923 would not enter the public domain until 2019. That was unimaginably far in the future. I would be *old* by then!
+
+Disney didn't dare try a third round in 2018. 1998 was near the end of the era where they could do that without a public outcry. The Internet and its post-scarcity information abundance transformed the world. Works from 1924 entered the public domain in 2020.
+
+2024 came and went without incident. 2022 had set a useful precedent, as A. A. Milne's 1926 book *Winnie-the-Pooh* entered the public domain. People made [distasteful works](https://en.wikipedia.org/wiki/Winnie%27s_Hole) about the bear with very little brain (but missing his iconic red shirt, a 1932 addition that will remain protected until 2028). But money continued flowing uninterrupted to the multimedia giant, which had by then purchased ABC, ESPN, Pixar, Marvel, Lucasfilm, and Fox. Along the same lines, no mousepocalypse occurred when works from 1928 *finally* entered the public domain in in 2024.
+
+We have now celebrated Public Domain Day 11 times in the last 50 years, welcoming in works from 1920 through 1930. Here's to the recent promise of public domain's enrichment, at the rate of one year per year.
