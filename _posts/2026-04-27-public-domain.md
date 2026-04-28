@@ -5,15 +5,15 @@ date: 2026-04-27
 categories: inkhaven
 image: /assets/mickey.jpg
 ---
-My journey started with an innocent question. In 2002, a younger, more innocent Jesse was enraptured by a new hyperlinked online encyclopedia that started gaining traction. It still had many placeholder articles, which contained text copied verbatim from the 1911 Encyclopedia Britannica. 1911?, young Jesse wondered. That's almost a hundred years ago! Surely there must be a more recent edition available for this so-called Wikipedia to crib from.
+My journey started with an innocent question. In 2002, a younger, more naive Jesse was enraptured by a new online encyclopedia that started gaining traction. It still had many placeholder articles, which contained text copied verbatim from the 1911 Encyclopedia Britannica. 1911?, young innocent Jesse wondered. That's almost a hundred years ago! Surely there must be a more recent edition available for this so-called Wikipedia to crib from.
 
 There was not.
 
 Twenty-four years later, I write to you from the other side of a lifelong obsession with the public domain.
 
-The public domain is best described by the quality it lacks: copyright. Anyone can legally adapt, copy, or transform any public domain work for any reason. For example, Project Gutenberg can provide the full text of public domain books to everyone at no cost. We owe our innumerable adaptations of Shakespeare and the Grimm folktales to their public domain status.
+The public domain is best defined by the protection it lacks: copyright. Anyone can legally adapt, copy, or transform any public domain work for any reason. For example, Project Gutenberg can provide the full text of public domain books to everyone at no cost. Anyone can record and sell their own performance of public domain classical music. The omnipresence of Shakespeare and Brothers Grimm adaptations is partially due to their public domain status.
 
-Today, any work created before 1931 is public domain. Fifty years ago, any work created before 1920 was public domain. Just look how common reimagings of properties from before 1920 are. Alternate takes on The Wizard of Oz (1900). The Cthulhu mythos (1919). Sherlock Holmes's myriad incarnations (1887). Alice's wonderland adventures (1865). The world is poorer for the 39 missing years that copyright extensions have stolen from us. Instead of distant works from 1930, we could be in conversation with resonant works from 1969.
+US law today states that any work created before 1931 is public domain. Fifty years ago, it stated that any work created before 1920 was public domain. Look how common reimagings of properties from before 1920 are as a result. Alternate takes on The Wizard of Oz (1900). The Cthulhu mythos (1919). Sherlock Holmes's myriad incarnations (1887). Alice's wonderland adventures (1865). The world is poorer for the 39 missing years copyright extensions have stolen from us. Instead of distant works from 1930, we could be in conversation with resonant works from 1969.
 
 1969! Imagine what that would be like. In that world, anyone could make [indie films starring the Joker as a trans woman](https://en.wikipedia.org/wiki/The_People%27s_Joker) without being ready for a multimillion-dollar lawsuit. Beatles cover albums could be as common as classical cover albums. Anyone could put their Kirk/Spock slashfic on bookstore shelves and auction off the movie rights. Casablanca might have a hit musical deconstructing it that goes on to inspire a series of two movies. Works like those are a part of our cultural background, and we should have a right to engage with them as we like.
 
@@ -23,7 +23,7 @@ Dickens was confronted with cheap bootleg copies of his work everywhere. Flooded
 
 Dickens's international copyright work culminated in the 1886 Berne Convention. That first international agreement established the norm of a 50-year copyright term. (The US agreed to its terms fashionably late, in 1988.)
 
-![Animation cel from Steamboat Willie. A black-and-white Mickey Mouse cheerfully steers a boat down a river with a ship's wheel. Notably, Mickey is not wearing his iconic gloves.](/assets/kava.jpg)
+![Animation cel from Steamboat Willie. A black-and-white Mickey Mouse cheerfully steers a boat down a river with a ship's wheel. Notably, Mickey is not wearing his iconic gloves.](/assets/mickey.jpg)
 *Animation cel from Steamboat Willie. A black-and-white Mickey Mouse cheerfully steers a boat down a river with a ship's wheel. Notably, Mickey is not wearing his iconic gloves.*
 
 In the 1970s, Disney realized it had a problem. Steamboat Willie, the first animated short featuring Mickey Mouse, was from 1928. At that time, US copyright law protected a work for 28 years by default, plus a 28 year-extension on request, for a total of 56 years. If Disney didn't take drastic action, Mickey Mouse would enter the public domain in 1985, causing a financial crisis for the company. So Disney sent money through lobbyists to Congress, which was revising US copyright law to conform to the Berne Convention. The resulting Copyright Act of 1976 extended copyright terms, from the previous maximum of 56 years, to 75 years after date of publication. Works from 1918 entered the public domain in 1975. Works from 1919 entered the public domain in 1976. Works from 1920 would not enter the public domain until 1996. The mouse was safe.
