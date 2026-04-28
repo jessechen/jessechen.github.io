@@ -5,7 +5,7 @@ date: 2026-04-27
 categories: inkhaven
 image: /assets/mickey.jpg
 ---
-My journey started with an innocent question. In 2002, a younger, more naive Jesse was enraptured by a new online encyclopedia that started gaining traction. It still had many placeholder articles, which contained text copied verbatim from the 1911 Encyclopedia Britannica. 1911?, young innocent Jesse wondered. That's almost a hundred years ago! Surely there must be a more recent edition available for this so-called Wikipedia to crib from.
+My journey started with an innocent question. In 2002, a younger, more naive Jesse was enraptured by a new online encyclopedia that started gaining traction. It still had many placeholder articles, which contained text copied verbatim from the 1911 Encyclopedia Britannica. 1911?, young naive Jesse wondered. That's almost a hundred years ago! Surely there must be a more recent edition this so-called Wikipedia could crib from.
 
 There was not.
 
