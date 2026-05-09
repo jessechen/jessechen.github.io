@@ -44,4 +44,4 @@ For content from before 2023, or just something different, I also have kept a li
 </TR>
 </TABLE>
 
-<H1><A HREF="mailto:demoncat@approximateknowledge.com"><IMG SRC="/assets/EMAIL.gif"> --&gt; E-MAIL ME &lt;-- <IMG SRC="/assets/EMAIL.gif"></A></H1>
+<H1><A HREF="mailto:demoncat@approximateknowledge.net"><IMG SRC="/assets/EMAIL.gif"> --&gt; E-MAIL ME &lt;-- <IMG SRC="/assets/EMAIL.gif"></A></H1>
