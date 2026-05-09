@@ -19,6 +19,16 @@ body {
     color: #fbf8ee;
 }
 
+@media screen and (max-width: 600px) {
+    .site-nav {
+        background-color: #a31d1d;
+        border: none;
+        .menu-icon > svg {
+            fill: #fbf8ee;
+        }
+    }
+}
+
 a {
     color: #a31d1d;
 }
