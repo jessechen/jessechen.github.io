@@ -13,7 +13,7 @@ permalink: /category/
         <li><a href="{% link _posts/2023-09-13-orange.md %}">orange</a></li>
         <li><a href="{% link _posts/2024-09-24-cologne.md %}">cologne</a></li>
     </ul>
-    <p>Or browse <a href="{% link date.md %}">all posts by date</a>, or <a href="{% link words.md %}">all etymologies by year of origin</a> instead.</p>
+    <p>Or browse <a href="{% link date.md %}">all posts by date</a>, <a href="{% link words.md %}">all etymologies by year of origin</a>, or <a href="{% link lives.md %}">all game retrospectives by year of origin</a> instead.</p>
     <hr/>
 
     <h2>On being human</h2>
@@ -37,6 +37,15 @@ permalink: /category/
     <h2>On histories of words</h2>
     <ul>
         {%- for post in site.categories.etym -%}
+        <li>
+            {{ post.date | date: "%Y-%m-%d" }}:
+            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </li>
+        {%- endfor -%}
+    </ul>
+    <h2>On video games</h2>
+    <ul>
+        {%- for post in site.categories.lives -%}
         <li>
             {{ post.date | date: "%Y-%m-%d" }}:
             <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
