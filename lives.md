@@ -65,5 +65,6 @@ My inspirations include other series that explore history through deep dives on 
 * [50 Years of Text Games](https://if50.substack.com/): Text games, 1971-2020
 * [The Digital Antiquarian](https://www.filfre.net/hall-of-fame/): Video games, 1977-
 * [Centuries of Sound](https://centuriesofsound.com/):  Recorded sound, 1888-
+* [The Number Ones](https://stereogum.com/category/columns/the-number-ones)Billboard Hot 100 #1s, 1958-
 * [A History of Violence](https://the-avocado.org/2024/08/13/av-club-classic-tom-breihans-history-of-violence/): Action movies, 1968-2021
-* [Popcorn Champs](https://www.avclub.com/search?q=The+Popcorn+Champs): Box-office hits, 1960-2021
+* [Popcorn Champs](https://www.avclub.com/search?q=The+Popcorn+Champs): Box-office hits, 1960-2020
