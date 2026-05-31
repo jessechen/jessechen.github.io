@@ -26,7 +26,7 @@ Infinite Lives is a series of posts exploring video game history by focusing on 
 17. 1994: ???
 18. 1995: ???
 19. 1996: ???
-20. 1997: ???
+20. [1997: Star Fox 64](/lives/2026/05/31/sf64.html)
 21. 1998: ???
 22. 1999: ???
 23. [2000: Diablo II](/inkhaven/2026/04/17/diablo2.html)
