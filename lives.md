@@ -48,7 +48,7 @@ Infinite Lives is a series of posts exploring video game history by focusing on 
 39. 2016: ???
 40. 2017: ???
 41. 2018: ???
-42. 2019: ???
+42. [2019: Heaven's Vault](/lives/2026/06/24/heavens-vault.html)
 43. 2020: ???
 44. 2021: ???
 45. 2022: ???
