@@ -106,3 +106,69 @@ details[open] summary {
 summary {
     cursor: pointer;
 }
+
+// ---
+// Sidenote CSS based on Tufte CSS from https://gwern.net/sidenote
+// ---
+
+.sidenote {
+    float: right;
+    clear: right;
+    margin-right: -45%;
+    width: 40%;
+    line-height: 1.3;
+    position: relative;
+}
+
+.sidenote-number {
+    counter-increment: sidenote-counter;
+}
+
+.sidenote-number:after {
+    position: relative;
+    content: "["counter(sidenote-counter)"]";
+    font-size: .8rem;
+    left: .1rem;
+    top: -.4rem;
+}
+
+.sidenote:before {
+    content: counter(sidenote-counter)". ";
+}
+
+input.margin-toggle {
+    display: none;
+}
+
+label.sidenote-number {
+    max-height: 1.5rem;
+}
+
+label.margin-toggle:not(.sidenote-number) {
+    display: none;
+}
+
+@media (max-width: 1400px) {
+    label.margin-toggle:not(.sidenote-number) {
+        display: inline;
+    }
+
+    .sidenote {
+        display: none;
+    }
+
+    .margin-toggle:checked + .sidenote {
+        display: block;
+        float: left;
+        left: 1rem;
+        clear: both;
+        width: 95%;
+        margin: 1rem 2.5%;
+        position: relative;
+    }
+
+    label {
+        cursor: pointer;
+        text-decoration: underline dotted #a31d1d;
+    }
+}
