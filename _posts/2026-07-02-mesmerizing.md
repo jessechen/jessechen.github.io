@@ -25,6 +25,6 @@ The German surname Mesmer originated as a variant of Messner or Mesner. Mesner c
 
 Much MMORPG-specific slang originates from EverQuest, the 1999 game that established and codified the genre. In EverQuest, a key tool to manage incoming damage is the enchanter spell *mesmerize*. Likely inspired by the D&D spell *fascinate*, mesmerize prevents its target from acting until attacked. The specific spell mesmerize, and its inflicted condition mesmerized, came to represent the entire category of crowd control effects.
 
-In the 2000s, it was common to refer to any "soft" crowd control that breaks when the target is hit as the clipping *mez*. ("Hard" crowd control is typically called *stun*.) A character that could mez was called a *mezzer*. The 2005 game Guild Wars played off this by calling its own enchanter class *mesmer*.
+In the 2000s, it was common to refer to any "soft" crowd control that breaks when the target is hit with the clipping *mez*. ("Hard" crowd control is typically called *stun*.) A character that could mez was called a *mezzer*. The 2005 game Guild Wars played off this by calling its own enchanter class *mesmer*.
 
-Twenty years later, the more generic term CC is more commonly used. "Mez" still sees occasional use, even when the actual effect is more like sleep or freeze, or in science fiction settings.
+Twenty years later, the more generic term CC is more commonly used. "Mez" still sees occasional use, even in science fiction settings, or when the actual effect is more like sleep or freeze.
