@@ -170,5 +170,6 @@ label.margin-toggle:not(.sidenote-number) {
     label {
         cursor: pointer;
         text-decoration: underline dotted #a31d1d;
+        text-underline-offset: .1rem;
     }
 }
