@@ -21,7 +21,7 @@ It's worth noting that modern psychology was established in 1879. Before that, i
 
 Against this backdrop, the benefit of hypnosis as a possible treatment for mental illness where none existed makes more sense. Even if the theory didn't pan out, the technique produced real benefits. You can see how Mesmer came up with the idea based on empirical results, absent any evidence to the contrary.
 
-The German surname Mesmer originated as a variant of Messner or Mesner. Mesner can be traced back to Latin *mānsiō* (also the source of English *mansion*), meaning "dwelling". So people were called Mesner because you could disambiguate them from other people with the same given name because they lived in that house.
+The German surname Mesmer originated as a variant of Messner or Mesner. Mesner can be traced back to Latin *mānsiō* (also the source of English *mansion*), meaning "dwelling". It was an occupational surname for church officials in Austria and Bavaria, akin to English *sexton*. "Dwelling" here was presumably a metonym for church like in the phrase "house of God".
 
 Much MMORPG-specific slang originates from EverQuest, the 1999 game that established and codified the genre. In EverQuest, a key tool to manage incoming damage is the enchanter spell *mesmerize*. Likely inspired by the D&D spell *fascinate*, mesmerize prevents its target from acting until attacked. The specific spell mesmerize, and its inflicted condition mesmerized, came to represent the entire category of crowd control effects.
 
