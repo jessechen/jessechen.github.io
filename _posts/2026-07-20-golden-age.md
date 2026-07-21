@@ -27,15 +27,15 @@ This recent technological plateau coincides with the maturation of game design a
 
 A third background thread is video games shedding their perpetual hangup around being taken seriously as a medium. The scent of desperation is gone. One sign of this is the rise of prestige video game adaptations like Arcane, Fallout, and The Last of Us. Another factor was the 2020 pandemic and its enforced isolation leading a wider selection of people to look into video games. It's finally unremarkable when sitting US senators play video games; it's just another hobby like golfing or going to the movies.
 
-You could argue the 1980s and early 1990s should be the golden age of video games, and we should call this decade a silver age or a renaissance. There's a valid point there. I'd claim that comparing Super Mario Bros. or The Legend of Zelda to Super Mario Odyssey or Tears of the Kingdom is like comparing apples and oranges. They're different kinds of things, in the same way that 10-minute silent films are different from 90-minute talkies. You can, and people do, still make and appreciate 10-minute silent films. But they're fundamentally different things.
+You might object the 1980s and early 1990s should be the golden age of video games, aligning it with arcade games, and we should call this decade a silver age or a renaissance. It's a solid argument. I'd claim that comparing Super Mario Bros. or The Legend of Zelda to Super Mario Odyssey or Tears of the Kingdom is like comparing apples and oranges. They're different kinds of things, in the same way that 10-minute silent films are different from 90-minute talkies. You can, and people do, still make and appreciate 10-minute silent films. But they're fundamentally different things.
 
-I actually see a lot of parallels between the early history of film and the early history of video games. The 1900s and 1910s saw many pioneers create art worth appreciating and remembering, despite its straining against technical constraints. I feel a sense of awe and wonder when I think of people exploring a protean medium, rife with possibility, communally discovering its unique strengths. I feel the same way about the 1980s and 1990s in video games.
+I actually see a lot of parallels between the early history of film and the early history of video games. The 1900s and 1910s saw many pioneers create art worth appreciating and remembering despite straining against technical constraints. I feel a sense of awe and wonder when I think of people exploring a protean medium, rife with possibility, communally discovering its unique strengths. I feel the same way about the 1980s and 1990s in video games.
 
 When I think about the maturation of film as a medium, it seems to have required sound, but not color. Video games will likely see innovations on the scale of color film in the future, but that doesn't preclude game design from being the factor that pushed them over the threshold into maturity.
 
 As a first approximation, let's bound this era as the late 2010s and 2020s. It aligns with the 10-15 years we see in other media. That's my case future hobbyists will describe it as the golden age of video games.
 
-For concrete examples of golden age works, let's consider influential video games. Here's four contemporary games that struck on something so resonant they inspired entire genres:
+For concrete examples of golden age works, let's look at influential video games. Here's four contemporary games that struck on something so resonant they inspired entire genres:
 * PlayerUnknown's Battlegrounds (2017)
 * Slay the Spire (2019)
 * Vampire Survivors (2021)
