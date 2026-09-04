@@ -15,7 +15,7 @@ Infinite Lives is a series of posts exploring video game history by focusing on 
 6. 1983: ???
 7. 1984: ???
 8. 1985: ???
-9. 1986: ???
+9. [1986: Arkanoid](/lives/2026/09/04/arkanoid.html)
 10. 1987: ???
 11. 1988: ???
 12. 1989: ???
