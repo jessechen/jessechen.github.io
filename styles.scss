@@ -44,11 +44,11 @@ hr {
     margin: 2rem 0;
 }
 
-table tr:nth-child(even) {
+table tr:nth-child(even), table th {
     background-color: #f8f2de;
 }
 
-table td {
+table td, table th {
     padding: .5em;
 }
 
